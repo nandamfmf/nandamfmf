@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Maria Fernanda Magalhães (Nandamfmf)! 👋
 
-<!--
-**nandamfmf/nandamfmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Computer Science Student at UFRN
 
-Here are some ideas to get you started:
+I am a tech enthusiast currently in my second year of Computer Science. My focus lies in building creative and robust solutions by bridging the gap between foundational computing theory and software development best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Current Focus:
+- 🚀 **Full-Stack Development:** Experienced in C++, JavaScript, HTML, and CSS.
+- 🏢 **Leadership:** Co-founder of **Poticode**, the first Junior Enterprise for Computer Science at UFRN.
+- 🎓 **Academic Research:** Deepening my knowledge in Data Structures, Algorithms, and Discrete Mathematics.
+
+### 🛠️ Tech Stack & Tools:
+- **Languages:** C++ and JavaScript.
+- **Frontend:** HTML5, CSS3 (Variables, Flexbox, Grid), Responsive Design, and Deployment/Domain Management.
+- **Foundational Theory:** Programming Logic, Data Structures, and Algorithms.
+
+### 🌍 Languages:
+- **Portuguese:** Native.
+- **English:** Advanced.
+
+---
+
+### 📫 Let's Connect:
+- **LinkedIn:** [linkedin.com/in/nandamfmf](https://www.linkedin.com/in/nandamfmf)
+- **Email:** [Your Email Here]
+
+*"Transforming logic into real-world solutions, one commit at a time."*
