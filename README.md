@@ -24,6 +24,4 @@ I am a tech enthusiast currently in my second year of Computer Science. My focus
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/nandamfmf](https://www.linkedin.com/in/nandamfmf)
-- **Email:** [Your Email Here]
-
-*"Transforming logic into real-world solutions, one commit at a time."*
+- **Email:** fernandakicks@gmail.com
