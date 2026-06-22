@@ -7,14 +7,10 @@ I am a tech enthusiast currently in my second year of Computer Science! My focus
 ---
 
 ### 💻 Current Focus:
-- 🚀 **Full-Stack Development:** Experienced in C++, JavaScript, HTML, and CSS.
+- 🚀 **Full-Stack Development:** Experienced in C++, JavaScript, Rect.JS, HTML5, and CSS3.
 - 🏢 **Leadership:** Co-founder of **Poticode**, the first Junior Enterprise for Computer Science at UFRN.
 - 🎓 **Academic Research:** Deepening my knowledge in Data Structures, Algorithms, and Discrete Mathematics.
 
-### 🛠️ Tech Stack & Tools:
-- **Languages:** C++ and JavaScript.
-- **Frontend:** HTML5, CSS3 (Variables, Flexbox, Grid), Responsive Design, and Deployment/Domain Management.
-- **Foundational Theory:** Programming Logic, Data Structures, and Algorithms.
 
 ### 🌍 Languages:
 - **Portuguese:** Native.
