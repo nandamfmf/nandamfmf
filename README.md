@@ -1,4 +1,4 @@
-# Hi, I'm Maria Fernanda Magalhães (Nandamfmf)! 👋
+a# Hi, I'm Maria Fernanda Magalhães (Nandamfmf)! 👋
 
 ### Full-Stack Developer | Computer Science Student at UFRN
 
@@ -7,7 +7,7 @@ I am a tech enthusiast currently in my second year of Computer Science! My focus
 ---
 
 ### 💻 Current Focus:
-- 🚀 **Full-Stack Development:** Experienced in C++, JavaScript, Rect.JS, HTML5, and CSS3.
+- 🚀 **Full-Stack Development:** Experienced in C++, Typescript, JavaScript, React.JS, HTML5, and CSS3.
 - 🏢 **Leadership:** Co-founder of **Poticode**, the first Junior Enterprise for Computer Science at UFRN.
 - 🎓 **Academic Research:** Deepening my knowledge in Data Structures, Algorithms, and Discrete Mathematics.
 
