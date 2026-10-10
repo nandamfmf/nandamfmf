@@ -7,7 +7,7 @@ I am a tech enthusiast currently in my second year of Computer Science degree! M
 ---
 
 ### Current Focus:
-- **Software development:** Experienced in C++, Typescript, JavaScript, React.JS, Tailwind CSS, HTML5, and CSS3.
+- **Software development:** Experienced in C++, Python, Typescript, React.JS, Tailwind CSS, HTML5, and CSS3.
 - **Leadership:** Co-founder of **Poticode**, the first Junior Enterprise for Computer Science at UFRN.
 - **Academic studies:** Deepening my knowledge in Data Structures, Algorithms, Systems Architecture, Programming Best Practices
 
