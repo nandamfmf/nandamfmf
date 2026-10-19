@@ -2,7 +2,7 @@
 
 ### Computer Science Student at UFRN | Full-Stack Developer
 
-I am a tech enthusiast currently in my second year of Computer Science degree! My focus lies in building creative solutions by combining essential computing theory and software development concepts.
+I am a tech enthusiast currently in my second year of Computer Science degree! My focus lies in building creative solutions (combining essential computing theory and software development concepts)
 
 ---
 
