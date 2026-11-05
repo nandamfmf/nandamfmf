@@ -7,7 +7,7 @@ I enjoy learning new technologies, working on projects, and turning ideas into p
 
 ### What I'm Working On
 
-- **Software Development:** Building projects with Python, TypeScript, C++, React, and other web technologies.
+- **Software Development:** Building projects with Python, TypeScript, React.js, C++ and other web technologies.
 - **Full-Stack Development:** Exploring both frontend and backend development, with a focus on creating useful and well-structured applications.
 - **Leadership:** Co-founder of Poticode, the first Junior Enterprise for Computer Science at UFRN.
 - **Computer Science:** Studying Data Structures, Software Architecture, Programming Best Practices and more!
@@ -15,13 +15,13 @@ I enjoy learning new technologies, working on projects, and turning ideas into p
 ### Technologies
 
 **Languages:**  
-C++ · Python · JavaScript · TypeScript
+Python · TypeScript · C++
 
 **Frontend:**  
-React · HTML5 · CSS3 · Tailwind CSS
+React.js · HTML5 · CSS3 · Tailwind CSS
 
 **Tools:**  
-Git · GitHub · Vercel · CMake
+Git · GitHub · Vercel · Pytest
 
 ### Languages
 
