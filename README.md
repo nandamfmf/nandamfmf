@@ -1,4 +1,4 @@
-# Welcome, I'm Maria Fernanda (Nandamfmf)! 
+# Welcome, I'm Maria Fernanda Magalhães (Nandamfmf)! 
 
 ### Computer Science Student at UFRN | Software Developer
 
