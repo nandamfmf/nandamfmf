@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Maria%20Fernanda&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20UFRN%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7e22ce,100:c084fc&height=200&section=header&text=Maria%20Fernanda%20Magalh%C3%A3es%20Freitas&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20UFRN%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -10,22 +10,20 @@
     <img src="https://img.shields.io/github/followers/nandamfmf?label=Followers&style=for-the-badge&logo=github&color=24283b" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/nandamfmf?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-7aa2f7?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-c084fc?style=for-the-badge&logo=git&logoColor=1a1b26" alt="Repositories" />
   </a>
 </p>
 
 <br/>
-
 <div align="center">
-  <h3>About me</h3>
-  <p>
-    Hi! I'm Maria Fernanda, a Full-Stack developer and second-year Computer Science student at <b>UFRN</b> (Brazil). I spend most of my time building web applications from scratch — from designing responsive interfaces to structuring APIs and databases using React, TypeScript, Tailwind CSS, Python (Flask), JWT auth, and PostgreSQL.
-  </p>
-  <p>
-    I co-founded <b>Poticode</b>, the first Computer Science Junior Enterprise at UFRN, where I worked as a Web Developer and helped kick off our dev projects. Outside of web dev, I'm studying computer science theoretical foundations, deepening my knowledge in programming best practices, data structures, efficiency and problem-solving.
-  </p>
+  <h3>About me</h3>
+  <p>
+    Hi! I'm Maria Fernanda, a Full-Stack developer and second-year Computer Science student at <b>UFRN</b> (Brazil). My focus lies on building creative projects and web applications from scratch — from designing responsive interfaces to structuring APIs and databases using React, TypeScript, Tailwind CSS, Python (Flask), JWT auth, and PostgreSQL. 
+  </p>
+  <p>
+    I co-founded <b>Poticode</b>, the first Computer Science Junior Enterprise at UFRN, where I worked as a Web Developer and helped kick off our dev projects. Outside of web dev, I'm studying computer science theoretical foundations, deepening my knowledge in programming best practices, data structures, software development, efficiency and problem-solving.
+  </p>
 </div>
-
 <br/>
 
 <div align="center">
@@ -55,5 +53,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=100&section=footer" alt="Footer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7e22ce,100:c084fc&height=100&section=footer" alt="Footer Banner" />
 </div>
